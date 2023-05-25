@@ -3,7 +3,7 @@ a{text-decoration: none;}
 button {cursor: pointer;}
 body{color: #434455; background-color: #FFFFFF; font-family: "Roboto", sans-serif }
 :root { -main-color: hotpink;color: #2e2f42;
-    --pane-padding: 5px 42px;
+    --pane-padding: 5px 42px; :link
     @font-face}
     .main-logo {
     font-family: "Raleway", sans-serif;
@@ -13,6 +13,6 @@ line-height: 1.17;
 letter-spacing: 0.03em ;
 text-transform: uppercase;
 color: #4d5ae5;}
-:link{ text-decoration: none; }
+.link{ text-decoration: none; }
 logo-span{color: #2e2f42;}
-.index-menu{list-style: ;}
+.list
