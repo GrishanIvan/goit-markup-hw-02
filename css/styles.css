@@ -2,13 +2,21 @@ ul{list-style: none;}
 a{text-decoration: none;}
 button {cursor: pointer;}
 body{color: #434455; background-color: #FFFFFF; font-family: "Roboto", sans-serif }
-:root{ color: #4d5ae5; color: #2e2f42 ; }
+:root{ main-logo 
+        font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+     }
  main-logo{font-family: "Raleway", sans-serif;
 font-weight: 800;
 font-size: 18px ;
 line-height: 1.17;
 letter-spacing: 0.03em ;
 text-transform: uppercase;
-color: #4d5ae5;};
+color: #4d5ae5;}
 
 logo-span{color: #2e2f42;}
