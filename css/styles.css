@@ -32,3 +32,18 @@ color: #4d5ae5;}
 }
 .mail:hover{color:#404bbf;}
 .mail:focus {color:#404bbf;}
+.section-one {background-color: var(--logo-color);}
+.h-one{
+    font-size: 56px ; line-height: 1.07 ; text-align: center ;letter-spacing: 0.02em ;color: #ffffff ;
+}
+.button-sec-one{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif ;
+    font-weight: 500 ;
+    font-size: 16px ;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.button-sec-one:hover{background-color: #404BBF;}
+.button-sec-one:focus{background-color: #404BBF;}
