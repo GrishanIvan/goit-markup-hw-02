@@ -3,7 +3,7 @@ a{text-decoration: none;}
 button {cursor: pointer;}
 body{color: #434455; background-color: #FFFFFF; font-family: "Roboto", sans-serif }
 :root { --logo-color : #2e2f42 ;
-
+        --adress-color: #434455 ;
     }
     .main-logo {
     font-family: "Raleway", sans-serif;
@@ -22,5 +22,13 @@ color: #4d5ae5;}
     letter-spacing: 0.02em;
     color: var(--logo-color) ;
 }
-.menu-icon:focus{#404bbf}
-.menu-icon:hover{color: #404bbf}
+.menu-icon:focus{color:#404bbf;}
+.menu-icon:hover{color: #404bbf;}
+.address-main{font-style: normal;}
+.mail{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--adress-color);
+}
+.mail:hover{color:#404bbf;}
+.mail:focus {color:#404bbf;}
