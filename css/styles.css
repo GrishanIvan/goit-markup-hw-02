@@ -47,3 +47,13 @@ color: #4d5ae5;}
 }
 .button-sect-one:hover{background-color: #404BBF;}
 .button-sect-one:focus{background-color: #404BBF;}
+.h-two{font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--logo-color);}
+.paragraf{font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--adress-color);
+}
